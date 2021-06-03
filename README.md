@@ -1,1 +1,1 @@
-# easymineable-desktop
+# easymineable
