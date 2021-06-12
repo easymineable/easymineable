@@ -1,7 +1,7 @@
 
 # easyMineable (https://easymineable.com)
 
-## Easy Mining Coins with unMineable
+## [unMineable](https://www.unmineable.com/?ref=yjax-uulc) GUI Client on Windows/Mac/Linux/Raspberry Pi
 
 *  Supported Platforms: Windows (x64), MacOS (x64/arm64), Linux (x64/arm64), Raspberry Pi (arm64)
 
