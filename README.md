@@ -5,9 +5,9 @@
 
 *  Supported Platforms: Windows (x64), MacOS (x64/arm64), Linux (x64/arm64), Raspberry Pi (arm64)
 
-*  Supported Coins: Bitcoin, Dogecoin and 54 more different coins
+*  Supported Coins: Bitcoin, Dogecoin and 50 more different coins
 
-* Supported Mining: CPU (Integrated XMRig)
+* Supported Mining: CPU (XMRig), GPU (LolMiner)
 
 ![easyMineable](https://user-images.githubusercontent.com/84907652/120248955-8a9b3600-c2bc-11eb-9bc8-b3b4544b3a36.png)
 
